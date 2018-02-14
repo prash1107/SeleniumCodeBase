@@ -1,0 +1,264 @@
+14550 [2017-05-10 12:36:42,550] [INFO ] [com.aem.genericutilities.CommonFunctions ] - opened the required page..
+14596 [2017-05-10 12:36:42,596] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within function switch to frame by Name
+14737 [2017-05-10 12:36:42,737] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@class='demo-frame']
+14784 [2017-05-10 12:36:42,784] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to frame with name:frame
+14784 [2017-05-10 12:36:42,784] [INFO ] [com.aem.genericutilities.CommonFunctions ] - More than one locator exists...
+14893 [2017-05-10 12:36:42,893] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : .//*[@id='draggable']/p
+14987 [2017-05-10 12:36:42,987] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : .//*[@id='droppable']/p
+15552 [2017-05-10 12:36:43,552] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Drag and Drop operation completed...
+15552 [2017-05-10 12:36:43,552] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switching to default content, out from frame
+15598 [2017-05-10 12:36:43,598] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to default content
+18588 [2017-05-10 12:36:46,588] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Wait for Page load completed..
+18650 [2017-05-10 12:36:46,650] [INFO ] [com.aem.genericutilities.CommonFunctions ] - opened the required page..
+18650 [2017-05-10 12:36:46,650] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within function switch to frame by Name
+18791 [2017-05-10 12:36:46,791] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='iframeResult']
+18854 [2017-05-10 12:36:46,854] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to frame with name:iframe_2
+18854 [2017-05-10 12:36:46,854] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+18854 [2017-05-10 12:36:46,854] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: drop_down_select
+18854 [2017-05-10 12:36:46,854] [INFO ] [com.aem.genericutilities.CommonFunctions ] 19716 [2017-05-10 12:36:47,739] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Selected the expected value from drop down...
+23728 [2017-05-10 12:36:51,751] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: input_calendar
+23728 [2017-05-10 12:36:51,751] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+23869 [2017-05-10 12:36:26180 [2017-05-10 12:36:54,180] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully highlighed element: drop_down_select
+26180 [2017-05-10 12:36:54,180] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside selectByVisibleText() function...
+26180 [2017-05-10 12:36:54,180] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+26180 [2017-05-10 12:36:54,180] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: drop_down_select
+26180 [2017-05-10 12:36:54,180] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+26274 [2017-05-10 12:36:54,274] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+26367 [2017-05-10 12:36:54,367] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+26367 [2017-05-10 12:36:54,367] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: drop_down_select
+26680 [2017-05-10 12:36:54,680] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Dropdown- drop_down_select successfully selected by visible text- Opel
+26680 [2017-05-10 12:36:54,680] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+26680 [2017-05-10 12:36:54,680] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: drop_down_select
+26680 [2017-05-10 12:36:54,680] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+26774 [2017-05-10 12:36:54,774] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+26867 [2017-05-10 12:36:54,867] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+26867 [2017-05-10 12:36:54,867] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: drop_down_select
+33472 [2017-05-10 12:37:01,472] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully highlighed element: drop_down_select
+33472 [2017-05-10 12:37:01,472] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+33472 [2017-05-10 12:37:01,472] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: drop_down_select
+33472 [2017-05-10 12:37:01,472] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+33566 [2017-05-10 12:37:01,566] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+33660 [2017-05-10 12:37:01,660] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+33660 [2017-05-10 12:37:01,660] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: drop_down_select
+34097 [2017-05-10 12:37:02,097] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+34097 [2017-05-10 12:37:02,097] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: drop_down_select
+34097 [2017-05-10 12:37:02,097] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+34176 [2017-05-10 12:37:02,176] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+34285 [2017-05-10 12:37:02,285] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+34285 [2017-05-10 12:37:02,285] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: drop_down_select
+40841 [2017-05-10 12:37:08,841] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully highlighed element: drop_down_select
+40935 [2017-05-10 12:37:08,935] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+46483 [2017-05-10 12:37:14,483] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Selected the expected value from drop down...
+46483 [2017-05-10 12:37:14,483] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+46483 [2017-05-10 12:37:14,483] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: drop_down_select
+46483 [2017-05-10 12:37:14,483] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+46561 [2017-05-10 12:37:14,561] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+46654 [2017-05-10 12:37:14,654] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+46654 [2017-05-10 12:37:14,654] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: drop_down_select
+53320 [2017-05-10 12:37:21,320] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully highlighed element: drop_down_select
+53414 [2017-05-10 12:37:21,414] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //select
+53929 [2017-05-10 12:37:21,929] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switching to default content, out from frame
+53992 [2017-05-10 12:37:21,992] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to default content
+58163 [2017-05-10 12:37:26,163] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Wait for Page load completed..
+58210 [2017-05-10 12:37:26,210] [INFO ] [com.aem.genericutilities.CommonFunctions ] - opened the required page..
+58210 [2017-05-10 12:37:26,210] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+58429 [2017-05-10 12:37:26,429] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[1]/div/input
+58682 [2017-05-10 12:37:26,682] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Completed entering text to element...
+63692 [2017-05-10 12:37:31,692] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within clear field function
+63692 [2017-05-10 12:37:31,692] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: enter_name_text
+63833 [2017-05-10 12:37:31,833] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[1]/div/input
+63896 [2017-05-10 12:37:31,896] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Cleared webelement field
+68908 [2017-05-10 12:37:36,908] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+69065 [2017-05-10 12:37:37,065] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[1]/div/input
+69341 [2017-05-10 12:37:37,341] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Completed entering text to element...
+74479 [2017-05-10 12:37:42,479] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/header/div[1]/div[2]/div/div/div[2]/form/div/div[2]/button
+74479 [2017-05-10 12:37:42,479] [INFO ] [com.aem.genericutilities.CommonFunctions ] - In clickUisngJS WebElement located...
+79605 [2017-05-10 12:37:47,605] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Clicked on element...
+79633 [2017-05-10 12:37:47,633] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Wait for Page load completed..
+79777 [2017-05-10 12:37:47,777] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within fucntion navigate back
+80885 [2017-05-10 12:37:48,885] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Wait for Page load completed..
+80979 [2017-05-10 12:37:48,979] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Browser navigated back
+81026 [2017-05-10 12:37:49,026] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Wait for Page load completed..
+81176 [2017-05-10 12:37:49,176] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/footer/div/div[1]/div[1]/div[2]/div/a[1]
+81176 [2017-05-10 12:37:49,176] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located...
+86249 [2017-05-10 12:37:54,249] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Scrolled element into view...
+86249 [2017-05-10 12:37:54,249] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+86249 [2017-05-10 12:37:54,249] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: scroll_element
+86249 [2017-05-10 12:37:54,249] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+86390 [2017-05-10 12:37:54,390] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/footer/div/div[1]/div[1]/div[2]/div/a[1]
+86483 [2017-05-10 12:37:54,483] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='container']/div/footer/div/div[1]/div[1]/div[2]/div/a[1]
+86499 [2017-05-10 12:37:54,499] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: scroll_element
+86561 [2017-05-10 12:37:54,561] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Text got from element scroll_element :: Contact Us
+86561 [2017-05-10 12:37:54,561] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Comparision went successfull...
+86561 [2017-05-10 12:37:54,561] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Texts are matched.
+88852 [2017-05-10 12:37:56,852] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Wait for Page load completed..
+88930 [2017-05-10 12:37:56,930] [INFO ] [com.aem.genericutilities.CommonFunctions ] - opened the required page..
+88930 [2017-05-10 12:37:56,930] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within function switch to frame by Name
+89024 [2017-05-10 12:37:57,024] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='iframeResult']
+89071 [2017-05-10 12:37:57,071] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to frame with name:iframe_2
+89071 [2017-05-10 12:37:57,071] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_present
+89175 [2017-05-10 12:37:57,175] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //html/body/a[1]
+89175 [2017-05-10 12:37:57,175] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully locate element: element_present
+89175 [2017-05-10 12:37:57,175] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Clicking on Webelement..element_present
+89175 [2017-05-10 12:37:57,175] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+89175 [2017-05-10 12:37:57,175] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_present
+89175 [2017-05-10 12:37:57,175] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+89269 [2017-05-10 12:37:57,269] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //html/body/a[1]
+89363 [2017-05-10 12:37:57,363] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //html/body/a[1]
+89363 [2017-05-10 12:37:57,363] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: element_present
+89762 [2017-05-10 12:37:57,762] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully clicked on: element_present
+89762 [2017-05-10 12:37:57,762] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switching to default content, out from frame
+89809 [2017-05-10 12:37:57,809] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to default content
+89809 [2017-05-10 12:37:57,809] [INFO ] [com.aem.genericutilities.CommonFunctions ] - In switchToLatestOpenedWindow() function...
+91238 [2017-05-10 12:37:59,238] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getCurrentWindowURLAndFindText() function...
+91551 [2017-05-10 12:37:59,551] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Text w3schools is found in the url: https://www.w3schools.com/
+91691 [2017-05-10 12:37:59,691] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Closed browser...
+91769 [2017-05-10 12:37:59,769] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within function switch to frame by Name
+91879 [2017-05-10 12:37:59,879] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //*[@id='iframeResult']
+91926 [2017-05-10 12:37:59,926] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switched to frame with name:iframe_2
+91926 [2017-05-10 12:37:59,926] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_present
+92019 [2017-05-10 12:38:00,019] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //html/body/a[1]
+92019 [2017-05-10 12:38:00,019] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully locate element: element_present
+92019 [2017-05-10 12:38:00,019] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Clicking on Webelement..element_present
+92019 [2017-05-10 12:38:00,019] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+92019 [2017-05-10 12:38:00,019] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_present
+92019 [2017-05-10 12:38:00,019] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+92113 [2017-05-10 12:38:00,113] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //html/body/a[1]
+92223 [2017-05-10 12:38:00,223] [INFO ] [com.aem.genericutilities.CommonFunctions ] - WebElement located with using xpath : //html/body/a[1]
+92223 [2017-05-10 12:38:00,223] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully located element: element_present
+92723 [2017-05-10 12:38:00,723] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Successfully clicked on: element_present
+92723 [2017-05-10 12:38:00,723] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside switchToWindowAndFindElement() function...
+93562 [2017-05-10 12:38:01,562] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+93562 [2017-05-10 12:38:01,562] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_on_newwindow
+93562 [2017-05-10 12:38:01,562] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+194669 [2017-05-10 12:39:42,669] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Not able to locateError communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'SHKULKAR-W7-4', ip: '10.193.114.193', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: EventFiringWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f083c661-458e-4990-936f-6444c7966c77
+Command duration or timeout: 1.75 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+*** Element info: {Using=xpath, value=//*[text()='LEARN HTML']}
+194669 [2017-05-10 12:39:42,669] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Unable to locate WebElement using locator: xpath~//*[text()='LEARN HTML']
+194669 [2017-05-10 12:39:42,669] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Element could not be located using locator: xpath~//*[text()='LEARN HTML']
+195719 [2017-05-10 12:39:43,719] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'SHKULKAR-W7-4', ip: '10.193.114.193', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f083c661-458e-4990-936f-6444c7966c77
+Command duration or timeout: 1.05 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+195719 [2017-05-10 12:39:43,719] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Clicking on Webelement..element_on_newwindow
+195719 [2017-05-10 12:39:43,719] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+195719 [2017-05-10 12:39:43,719] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_on_newwindow
+195719 [2017-05-10 12:39:43,719] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+197173 [2017-05-10 12:39:45,173] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Not able to locateError communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'SHKULKAR-W7-4', ip: '10.193.114.193', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: driver.version: EventFiringWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f083c661-458e-4990-936f-6444c7966c77
+Command duration or timeout: 1.44 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+*** Element info: {Using=xpath, value=//*[text()='LEARN HTML']}
+197173 [2017-05-10 12:39:45,173] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Unable to locate WebElement using locator: xpath~//*[text()='LEARN HTML']
+197173 [2017-05-10 12:39:45,173] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Element could not be located using locator: xpath~//*[text()='LEARN HTML']
+197173 [2017-05-10 12:39:45,173] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Not able to click element_on_newwindow
+198311 [2017-05-10 12:39:46,311] [ERROR] [com.aem.genericutilities.CommonFunctions ] - closing browser..cannot forward the request Connect to 10.193.114.193:5555 [/10.193.114.193] failed: Connection refused: connect
+Command duration or timeout: 1.14 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+198311 [2017-05-10 12:39:46,311] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within function switch to wwindow by title
+198311 [2017-05-10 12:39:46,311] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Window title is not null
+198326 [2017-05-10 12:39:46,326] [ERROR] [com.aem.genericutilities.CommonFunctions ] - could not get the window ids Session [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+198326 [2017-05-10 12:39:46,326] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Couldn't switch to given frame
+198342 [2017-05-10 12:39:46,342] [ERROR] [com.aem.genericutilities.CommonFunctions ] - unable to open required page...
+198342 [2017-05-10 12:39:46,342] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside waitForElementToBeVisible() function...
+198342 [2017-05-10 12:39:46,342] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: iframe_2
+198342 [2017-05-10 12:39:46,342] [ERROR] [com.aem.genericutilities.CommonFunctions ] - 1
+198342 [2017-05-10 12:39:46,342] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Within function switch frame using ID
+198342 [2017-05-10 12:39:46,342] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: frameid
+198342 [2017-05-10 12:39:46,342] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: frameid
+198358 [2017-05-10 12:39:46,358] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Session [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+*** Element info: {Using=id, value=iframeResult}
+198358 [2017-05-10 12:39:46,358] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Invalid locator type being sent...Locator type sent: frameid
+198358 [2017-05-10 12:39:46,358] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+198358 [2017-05-10 12:39:46,358] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_present
+198358 [2017-05-10 12:39:46,358] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+198389 [2017-05-10 12:39:46,389] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Not able to locateSession [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+*** Element info: {Using=xpath, value=//html/body/a[1]}
+198389 [2017-05-10 12:39:46,389] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Unable to locate WebElement using locator: xpath~//html/body/a[1]
+198389 [2017-05-10 12:39:46,389] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Element could not be located using locator: xpath~//html/body/a[1]
+198389 [2017-05-10 12:39:46,389] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Index: 0, Size: 0
+198389 [2017-05-10 12:39:46,389] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside waitForElementToBeVisible() function...
+198389 [2017-05-10 12:39:46,389] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Inside getObjectFromRepo() function...
+198389 [2017-05-10 12:39:46,389] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Locator value is found in properties file for locator key: element_present
+198389 [2017-05-10 12:39:46,389] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Only one locator exists..
+198420 [2017-05-10 12:39:46,420] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Not able to locateSession [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+*** Element info: {Using=xpath, value=//html/body/a[1]}
+198420 [2017-05-10 12:39:46,420] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Unable to locate WebElement using locator: xpath~//html/body/a[1]
+198420 [2017-05-10 12:39:46,420] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Element could not be located using locator: xpath~//html/body/a[1]
+198420 [2017-05-10 12:39:46,420] [ERROR] [com.aem.genericutilities.CommonFunctions ] - Index: 0, Size: 0
+198436 [2017-05-10 12:39:46,436] [ERROR] [com.aem.genericutilities.CommonFunctions ] - unable to set the window size: Session [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+198436 [2017-05-10 12:39:46,436] [INFO ] [com.aem.genericutilities.CommonFunctions ] - Switching to default content, out from frame
+198451 [2017-05-10 12:39:46,451] [ERROR] [com.aem.genericutilities.CommonFunctions ] - unable to switch to default content Session [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
+199960 [2017-05-10 12:39:47,960] [ERROR] [browsers.BrowserConfigurator ] - error message: Session [6e59fb1a-b75e-40b9-a679-7d17ca09f22e] was terminated due to FORWARDING_TO_NODE_FAILED
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'mkarthik-WX-1', ip: '10.193.122.188', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=40.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webdriver.remote.sessionid=6e59fb1a-b75e-40b9-a679-7d17ca09f22e, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6e59fb1a-b75e-40b9-a679-7d17ca09f22e
